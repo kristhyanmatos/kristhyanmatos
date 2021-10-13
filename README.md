@@ -1,13 +1,11 @@
-## Olá, eu sou o Kristhyan 🌑
+# Olá, eu sou o Kristhyan 🌑
 
 
 <div align="start"> Graduando em Engenharia da Computação pela Universidade Federal do Sul e Sudeste do Pará.
   
 Desenvolvedor de software full stack com foco no frontend. </div>
 
-<br />
-
-### Ferramentas
+## Ferramentas
 #### Frontend  
 <div align="start"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />  
@@ -42,7 +40,7 @@ Desenvolvedor de software full stack com foco no frontend. </div>
   
 <br/>
 
-### Números
+## Números
 <div align="start">
 <table><tr><td valign="center" width="50%">
 
