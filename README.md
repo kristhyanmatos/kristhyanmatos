@@ -5,6 +5,14 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kristhyan/)
 
 ### Números
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristhyanmatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="start">
+<table><tr><td valign="center" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristhyanmatos&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kristhyanmatos&count_private=true&show_icons=true&hide_border=true&border_radius=6" align="center" style="height: 100%" /> 
+
+</td><td valign="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristhyanmatos&layout=compact&langs_count=4&hide_border=true&border_radius=6" align="center" style="width: 100%" />  
+
+</td></tr></table>  
+</div>
