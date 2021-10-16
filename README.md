@@ -45,7 +45,7 @@ Desenvolvedor de software full stack com foco no frontend. </div>
 
 </td><td valign="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristhyanmatos&layout=compact&langs_count=4&hide_border=true&border_radius=6" align="center" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristhyanmatos&layout=compact&langs_count=4&hide_border=true&border_radius=6&hide=java" align="center" style="width: 100%" />  
 
 </td></tr></table>  
 </div>
