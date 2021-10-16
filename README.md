@@ -1,7 +1,7 @@
 # Olá, eu sou o Kristhyan 🌑
 
 
-<div align="start"> Graduando em Engenharia da Computação pela Universidade Federal do Sul e Sudeste do Pará.
+<div align="start"> Graduando em Engenharia da Computação pela Universidade Federal do Sul e Sudeste do Pará. [9º Período]
   
 Desenvolvedor de software full stack com foco no frontend. </div>
 
