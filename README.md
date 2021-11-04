@@ -1,11 +1,11 @@
 # Kristhyan de Matos Maia 🇧🇷
 
 
-<div align="start"> Graduando em Engenharia da Computação pela Universidade Federal do Sul e Sudeste do Pará. [9º Período]
+<div align="start"> Majoring in Computer Engineering at the Universidade Federal do Sul e Sudeste do Pará. [9th Period]
   
-Desenvolvedor de software full stack com foco no frontend. </div>
+Full stack software developer focused on the frontend. </div>
 
-## Ferramentas
+## Tools
 #### Frontend  
 <div align="start"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />  
@@ -26,7 +26,7 @@ Desenvolvedor de software full stack com foco no frontend. </div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />
 </div>
 
-#### Banco de dados  
+#### Database  
 <div align="start">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />  
