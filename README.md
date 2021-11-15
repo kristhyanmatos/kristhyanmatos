@@ -6,6 +6,8 @@
 Full stack software developer focused on the frontend. </div>
 
 ## Tools
+<table><tr><td valign="top" width="33%">
+  
 #### Frontend  
 <div align="start"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />  
@@ -17,6 +19,8 @@ Full stack software developer focused on the frontend. </div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />     
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
 </div>
+  
+</td><td valign="top" width="33%">
 
 #### Backend  
 <div align="start">  
@@ -25,14 +29,17 @@ Full stack software developer focused on the frontend. </div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />
 </div>
-
+  
+</td><td valign="top" width="33%">
+  
 #### Database  
 <div align="start">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />  
 </div>
-  
+
+</td></tr></table>
 <br/>
 
 
