@@ -1,7 +1,7 @@
 # Kristhyan de Matos Maia 🇧🇷
 
 
-<div align="start"> Majoring in Computer Engineering at the <em>Universidade Federal do Sul e Sudeste do Pará</em>. [9th Period]
+<div align="start"> Majoring in Computer Engineering at the <em>Universidade Federal do Sul e Sudeste do Pará</em>. [10th Period]
   
 Full stack software developer focused on the frontend. </div>
 
