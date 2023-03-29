@@ -1,9 +1,9 @@
 # Kristhyan de Matos Maia 🇧🇷
 
 
-<div align="start"> Computer Engineer from the <em>Universidade Federal do Sul e Sudeste do Pará</em>.
+<div align="start"> Computer Engineer from the <em>Universidade Federal do Sul e Sudeste do Pará</em>
   
-Full stack software developer focused on the frontend. </div>
+Full stack software developer focused on the frontend </div>
 
 ## Tools
 <table><tr><td valign="top" width="50%">
